@@ -31,7 +31,7 @@ convention in your system for proper connectivity) (Changes if needed are on lin
 • Output for Project2_Part2_1.py will be stored as TEAM_SCORES Collection inside the MongoDB Database with all requested data.
 • Output for Project2_Part2_2.py will be stored as PLAYER_DATA Collection inside the MongoDB Database with all requested data.
 • Design and Implementation method used for Complex Nested Documents:
-o Used PyMongo Python Module to Manage Connection to MongoDB Database and retrieve data.
-o Made use of loops and operations to iterate through every object inside the JSON Array
-o Made use of find operation of MongoDB to filter through required set of data in Stadiums, Teams, Schedule Results and Goals Collections.
-o Once Final Output is ready, A new collection of the output list is made and uploaded back to MongoDB using the Insertmany Command.
+  o Used PyMongo Python Module to Manage Connection to MongoDB Database and retrieve data.
+  o Made use of loops and operations to iterate through every object inside the JSON Array
+  o Made use of find operation of MongoDB to filter through required set of data in Stadiums, Teams, Schedule Results and Goals       Collections.
+  o Once Final Output is ready, A new collection of the output list is made and uploaded back to MongoDB using the Insertmany Command.
