@@ -26,7 +26,8 @@ Project 2 is based on MongoDB
 
 Project is coded in Python 3
 • The files are named Project2_Part2_1.py & Project2_Part2_2.py
-• Python to MongoDB Connection is done in the code itself. (Please change the Database name and Collection name as per the naming convention in your system for proper connectivity) (Changes if needed are on lines: 7-13 in both the files)
+• Python to MongoDB Connection is done in the code itself. (Please change the Database name and Collection name as per the naming
+convention in your system for proper connectivity) (Changes if needed are on lines: 7-13 in both the files)
 • Output for Project2_Part2_1.py will be stored as TEAM_SCORES Collection inside the MongoDB Database with all requested data.
 • Output for Project2_Part2_2.py will be stored as PLAYER_DATA Collection inside the MongoDB Database with all requested data.
 • Design and Implementation method used for Complex Nested Documents:
